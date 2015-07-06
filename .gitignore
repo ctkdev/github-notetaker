@@ -1,0 +1,5 @@
+*.orig
+/*.log
+/node_modules
+/dist
+/public
